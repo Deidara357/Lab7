@@ -1,0 +1,26 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  padding: 8px;
+}
+
+.element {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}
+
+.clicked8 {
+  background-color: green;
+  color: black;
+}
+
+.clicked9 {
+  background-color: blue;
+  color: pink;
+}
+
+.action-button {
+  margin: 5px;
+  padding: 10px;
+  cursor: pointer;
+}
